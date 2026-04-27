@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">Weather Application</string>
+
+    <!-- LOGIN -->
+    <string name="welcome">Welcome Back</string>
+    <string name="email">Email or Phone</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- MAIN (WEATHER) -->
+    <string name="enter_city">Enter City</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind Speed</string>
+    <string name="condition">Condition</string>
+
+    <!-- NAVIGATION -->
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+
+    <!-- PROFILE -->
+    <string name="enter_name">Enter Name</string>
+    <string name="save_profile">Save Profile</string>
+
+    <!-- SETTINGS -->
+    <string name="language">Language</string>
+    <string name="font_size">Font Size</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="save_settings">Save Settings</string>
+
+    <!-- ERRORS / MESSAGES -->
+    <string name="error">Something went wrong</string>
+    <string name="enter_city_error">Please enter a city</string>
+    <string name="settings_saved">Settings Saved</string>
+
+</resources>
